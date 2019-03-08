@@ -8,3 +8,8 @@
   <li>XML entities</li>
   <li>Broken access controll</li>
 </ul>
+
+### Cmd Run Command
+<ul>
+  <li>node .</li>  
+</ul>
