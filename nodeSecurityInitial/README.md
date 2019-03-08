@@ -9,7 +9,7 @@
   <li>Broken access controll</li>
 </ul>
 
-### Cmd Run Command
+### Cmd Commands
 <ul>
   <li>npm install (install all dependencies)</li>  
   <li>node . (start the server at http://localhost:3000)</li>  
